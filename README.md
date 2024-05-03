@@ -1,7 +1,7 @@
 # Checkers-WPFCheckers
 Implemented with C# and WPF  
 Game  
- ● This works how a simple game of checkers is typically played.  
+    ● This works how a simple game of checkers is typically played.  
  ○ Player1 uses 12 blue pieces  
  ○ Player2 uses 12 red pieces  
  ○ Pieces can only move forward diagonally by one space  
